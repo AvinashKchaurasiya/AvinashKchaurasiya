@@ -1,10 +1,10 @@
-<h1 align="center">नमस्ते 🙏, I'm Avinash Kumar</h1>
-<center><img width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></center>
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUIyzvSl9mgAyXLUCXIJDHGGEi7PdVTuqId47tWEdt5NbUmzNm93v_xVtMGvOIHwSTybM__8Zse6I9UUAfNp2f3XmRBN5-XltDzgWExjpsRTueHJ9F6KpfF5MpYm2WWP6t7ixlFhRgX8FSqIWsHrokJwUapv3K-d-2dP8vkmgAhmV_v3z7G9Tq7wClzg/s1584/+91%208650163913.png)
+<h1 align="center">नमस्ते 🙏, हम अविनाश कुमार</h1>
 <h3 align="center">A passionate Full Stack developer from Bharat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkchaurasiya&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkchaurasiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashkchaurasiya" alt="avinashkchaurasiya" /></a> </p>
+<img align="right" src="https://img.freepik.com/free-photo/digital-art-style-illustration-graphic-designer_23-2151536950.jpg?t=st=1717863300~exp=1717866900~hmac=faf8539e1d7eaf0208ce4fab0e8dfca36fec74b515affb629dcef45a45c2138c&w=740" alt="Developer" width="200">
 
 - 🔭 I’m currently working on [Keystonbros](https://keystonbros.com/)
 

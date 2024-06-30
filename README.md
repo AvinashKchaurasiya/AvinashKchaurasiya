@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Keystonbros](https://keystonbros.com/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **PHP, MySQL, JavaScript, Bootstrap, CSS, HTML**
 

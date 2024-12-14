@@ -6,11 +6,11 @@
 
 <img align="right" src="https://img.freepik.com/free-photo/digital-art-style-illustration-graphic-designer_23-2151536950.jpg?t=st=1717863300~exp=1717866900~hmac=faf8539e1d7eaf0208ce4fab0e8dfca36fec74b515affb629dcef45a45c2138c&w=740" alt="Developer" width="200">
 
-- 🔭 I’m currently working on [Keystonbros](https://keystonbros.com/)
+- 🔭 I’m currently working on [Keystonbros](https://keystonbros.com/) and [Dash Keystonbros](https://dash.keystonbros.com/)
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **PHP, MySQL, JavaScript, Bootstrap, CSS, HTML**
+- 💬 Ask me about **PHP, Laravel, MySQL, JavaScript, Bootstrap, CSS, HTML**
 
 - 📫 How to reach me **avinash8564kumar@gmail.com**
 

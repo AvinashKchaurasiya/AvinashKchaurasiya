@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Youmrs Food](https://youmrsfood.com/) and [Zero1infinity](https://z1iinnovation.com/)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **PHP, Laravel, MySQL, JavaScript, Bootstrap, CSS, HTML**
 

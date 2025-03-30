@@ -2,7 +2,7 @@
 <h1 align="center">नमस्ते 🙏, हम अविनाश कुमार</h1>
 <h3 align="center">A passionate Full Stack developer from Bharat</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkchaurasiya&label=Profile%20views&color=0e75b6&style=flat" alt="avinashkchaurasiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkchaurasiya&label=Profile%20views&color=0e75b6&style=flat" title="Avinash Kumar Chaurasiya" alt="avinashkchaurasiya" /> </p>
 
 <img align="right" src="https://img.freepik.com/free-photo/digital-art-style-illustration-graphic-designer_23-2151536950.jpg?t=st=1717863300~exp=1717866900~hmac=faf8539e1d7eaf0208ce4fab0e8dfca36fec74b515affb629dcef45a45c2138c&w=740" alt="Developer" width="200">
 

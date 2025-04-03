@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkchaurasiya&label=Profile%20views&color=0e75b6&style=flat" title="Avinash Kumar Chaurasiya" alt="avinashkchaurasiya" /> </p>
 
-<img align="right" src="https://img.freepik.com/free-photo/digital-art-style-illustration-graphic-designer_23-2151536950.jpg?t=st=1717863300~exp=1717866900~hmac=faf8539e1d7eaf0208ce4fab0e8dfca36fec74b515affb629dcef45a45c2138c&w=740" alt="Developer" width="200">
+<img align="right" src="https://github.com/user-attachments/assets/7477dde7-ccbc-464e-81ec-824829acd491" alt="Second Image" width="400">
 
 - 🔭 I’m currently working on [Youmrs Food](https://youmrsfood.com/) and [Zero1infinity](https://z1iinnovation.com/)
 

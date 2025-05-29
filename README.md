@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/7477dde7-ccbc-464e-81ec-824829acd491" alt="Second Image" width="400">
 
-- 🔭 I’m currently working on [Youmrs Food](https://youmrsfood.com/) and [Zero1infinity](https://z1iinnovation.com/)
+- 🔭 I’m currently working on [Zero1infinity](https://z1iinnovation.com/)
 
 - 🌱 I’m currently learning **.NET**
 

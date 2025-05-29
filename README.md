@@ -1,6 +1,6 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUIyzvSl9mgAyXLUCXIJDHGGEi7PdVTuqId47tWEdt5NbUmzNm93v_xVtMGvOIHwSTybM__8Zse6I9UUAfNp2f3XmRBN5-XltDzgWExjpsRTueHJ9F6KpfF5MpYm2WWP6t7ixlFhRgX8FSqIWsHrokJwUapv3K-d-2dP8vkmgAhmV_v3z7G9Tq7wClzg/s1584/+91%208650163913.png)
 <h1 align="center">नमस्ते 🙏, हम अविनाश कुमार</h1>
-<h3 align="center">A passionate Full Stack developer from Bharat</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashkchaurasiya&label=Profile%20views&color=0e75b6&style=flat" title="Avinash Kumar Chaurasiya" alt="avinashkchaurasiya" /> </p>
 

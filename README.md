@@ -7,7 +7,6 @@
 <p>
   <a href="https://github.com/AvinashKchaurasiya"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://envorainnovation.in/"><img src="https://img.shields.io/badge/Envora_Innovations-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AvinashKchaurasiya&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 **Backend-focused Full Stack Developer | ERP & CRM | API Development | Web Applications**
@@ -138,10 +137,6 @@ Hi, I'm **Avinash K Chaurasiya** — a Full Stack Developer passionate about cre
   <img src="https://streak-stats.demolab.com?user=AvinashKchaurasiya&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="80%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashKchaurasiya&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</div>
-
 ## 🐍 Contribution Journey
 
 <div align="center">
@@ -154,8 +149,8 @@ Hi, I'm **Avinash K Chaurasiya** — a Full Stack Developer passionate about cre
 <div align="center">
   <a href="https://github.com/AvinashKchaurasiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://envorainnovation.in/"><img src="https://img.shields.io/badge/Website-Envora%20Innovations-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Envora Innovations website" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder link" /></a>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder link" /></a>
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/avinash-kumar-fullstack-developer/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder link" /></a>
+  <a href="mailto:avinash8564kumar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder link" /></a>
 </div>
 
 <p align="center">💬 Interested in building something useful together? Explore my repositories or connect with me.</p>
